@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bmsebastian2.github.io/csb-xegh5/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://bmsebastian2.github.io/csb-xegh5/static/js/main.8ecab5bd.chunk.js",
+    "main.js.map": "https://bmsebastian2.github.io/csb-xegh5/static/js/main.8ecab5bd.chunk.js.map",
+    "runtime-main.js": "https://bmsebastian2.github.io/csb-xegh5/static/js/runtime-main.253b3a26.js",
+    "runtime-main.js.map": "https://bmsebastian2.github.io/csb-xegh5/static/js/runtime-main.253b3a26.js.map",
+    "static/js/2.89ff487f.chunk.js": "https://bmsebastian2.github.io/csb-xegh5/static/js/2.89ff487f.chunk.js",
+    "static/js/2.89ff487f.chunk.js.map": "https://bmsebastian2.github.io/csb-xegh5/static/js/2.89ff487f.chunk.js.map",
+    "index.html": "https://bmsebastian2.github.io/csb-xegh5/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://bmsebastian2.github.io/csb-xegh5/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.89ff487f.chunk.js.LICENSE.txt": "https://bmsebastian2.github.io/csb-xegh5/static/js/2.89ff487f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.253b3a26.js",
+    "static/js/2.89ff487f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8ecab5bd.chunk.js"
+  ]
+}
